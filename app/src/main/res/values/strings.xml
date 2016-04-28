@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SmartHouse</string>
+    <string name="connection_status">Connection status</string>
+    <string name="curtain_state">Curtain state</string>
+    <string name="setup_schedule">Setup schedule</string>
+    <string name="schedule_day">Day</string>
+    <string name="schedule_morning">Morning</string>
+    <string name="schedule_evening">Evening</string>
+    <string name="close_curtains">Close curtains</string>
+    <string name="open_curtains">Open curtains</string>
+    <string name="menu_main_item_schedule">Schedule</string>
+    <string name="switch_manual_mode">Manual mode on</string>
+    <string name="switch_auto_mode">Manual mode off</string>
+    <!-- Alert dialog enable manual -->
+    <string name="enable_manual_title">Warning</string>
+    <string name="enable_manual_message">Do you want to enable manual mode?</string>
+    <string name="enable_manual_yes">Enable</string>
+    <string name="enable_manual_no">Cancel</string>
+</resources>
